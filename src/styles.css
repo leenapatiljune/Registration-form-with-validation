@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+
+body{
+	background-color: #f7f7f7;
+	font-family: 'Times New Roman', Times, serif;
+    padding-top: 10px;
+}
+h3 {
+  color: #080808;
+  text-align: center;
+}
+.btn{
+  background:rgb(238, 241, 241);  
+  border: 3px solid;
+  border-radius: 5px;
+  color: #080808;
+}
+
+@media (min-width: 768px){
+   /* Based on screen size we can add CSS for responsive website design*/
+}
